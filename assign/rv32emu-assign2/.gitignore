@@ -1,0 +1,6 @@
+/emu-rv32i
+/*.o
+/*.s
+/hash
+/hash_rv32z
+/multiply

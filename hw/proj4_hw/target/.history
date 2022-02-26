@@ -1,0 +1,58 @@
+Lab3 / testOnly dinocpu.RTypeTesterLab3
+ Lab3 / testOnly dinocpu.ITypeTesterLab3
+ Lab3 / testOnly dinocpu.UTypeTesterLab3
+Lab3 / testOnly dinocpu.MemoryTesterLab3
+Lab3 / testOnly dinocpu.ITypeMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.RTypeMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.BranchTesterLab3
+Lab3 / testOnly dinocpu.JumpTesterLab3
+Lab3 / testOnly dinocpu.MemoryMultiCycleTester3
+> Lab3 / testOnly dinocpu.MemoryMultiCycleTester3
+ Lab3 / testOnly dinocpu.MemoryMultiCycleTester3
+Lab3 / testOnly dinocpu.ApplicationsTesterLab3
+Lab3 / testOnly dinocpu.MemoryMultiCycleTester3
+Lab3 
+Lab3 / testOnly dinocpu.MemoryMultiCycleTester3
+testOnly dinocpu.MemoryMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.MemoryMultiCycleTesterLab3
+testOnly dinocpu.MultiCycleApplicationsTesterLab3 -- -z divider
+testOnly dinocpu.MultiCycleApplicationsTesterLab3 -- -z <divider>
+testOnly dinocpu.ApplicationsTesterLab3 -- -z divider
+testOnly dinocpu.MultiCycleApplicationsTesterLab3 -- -z divider
+testOnly dinocpu.ApplicationsTesterLab3 -- -z divider
+testOnly dinocpu.ApplicationsTesterLab3 -- -z fibonacci
+testOnly dinocpu.ApplicationsTesterLab3 -- -z naturalsum
+testOnly dinocpu.ApplicationsTesterLab3 -- -z divider
+testOnly dinocpu.ApplicationsTesterLab3 -- -z fibonacci
+ testOnly dinocpu.RTypeTesterLab3
+testOnly dinocpu.MemoryMultiCycleTesterLab3
+testOnly dinocpu.ApplicationsTesterLab3
+ Lab3 / runMain dinocpu.singlestep divider pipelined
+quit
+ Lab3 / runMain dinocpu.singlestep divider pipelined
+Lab3 / runMain dinocpu.singlestep divider pipelined
+ testOnly dinocpu.ApplicationsTesterLab3
+Lab3 / testOnly dinocpu.RTypeTesterLab3
+Lab3 / testOnly dinocpu.ITypeTesterLab3
+Lab3 / testOnly dinocpu.UTypeTesterLab3
+Lab3 / testOnly dinocpu.MemoryTesterLab3
+Lab3 / testOnly dinocpu.ITypeMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.RTypeMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.BranchTesterLab3
+Lab3 / testOnly dinocpu.JumpTesterLab3
+Lab3 / testOnly dinocpu.MemoryMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.ApplicationsTesterLab3
+exit
+Lab3 / testOnly dinocpu.RTypeTesterLab3
+Lab3 / testOnly dinocpu.ITypeTesterLab3
+Lab3 / testOnly dinocpu.UTypeTesterLab3
+Lab3 / testOnly dinocpu.MemoryTesterLab3
+Lab3 / testOnly dinocpu.ITypeMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.RTypeMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.BranchTesterLab3
+Lab3 / testOnly dinocpu.JumpTesterLab3
+Lab3 / testOnly dinocpu.MemoryMultiCycleTesterLab3
+Lab3 / testOnly dinocpu.ApplicationsTesterLab3
+exit
+testOnly dinocpu.RTypeTesterLab3
+exit
